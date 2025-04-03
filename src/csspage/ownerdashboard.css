@@ -1,0 +1,36 @@
+.symbol{
+    margin-left: 60px;
+}
+.heading1{
+    font-size: large;
+}
+.card{
+    align-items: center;
+    text-align: center;
+    border: black 1px solid;
+    width: 250px;
+    height: 180px;
+    box-shadow: 2px 2px 2px;
+}
+.last{
+    padding-top: 30px;
+}
+.cards{
+    display: flex;
+    gap: 90px;
+    margin-top: 60px;
+  
+}
+.head1{
+ margin-top: -110px;
+}
+.button1{
+    margin-left: 70px;
+    width: 370px;
+}
+
+.buttons
+{
+    margin-top: 150px;
+    margin-left: -50px;
+}
